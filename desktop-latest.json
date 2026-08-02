@@ -1,11 +1,11 @@
 {
-  "version_name": "1.1.6",
-  "version_code": 1001006,
+  "version_name": "1.1.7",
+  "version_code": 1001007,
   "minimum_supported_version": "1.1.0",
-  "installer_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.6/ALURKA-Setup-1.1.6.exe",
-  "sha256": "c1c123b40ec6a6baa719d0bb97bd21c099da6bce5de1c3f50430b8d5bbb1cca3",
-  "file_size": 186239136,
+  "installer_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.7/ALURKA-Setup-1.1.7.exe",
+  "sha256": "b81159456414aabe83237c5e88efe12287d6220d1d25187474bf2ac5004b900b",
+  "file_size": 186241204,
   "force_update": false,
   "release_notes": "Memperbaiki Pusat Update HTTP 403 dan urutan dependensi SQL mobile_sync_events.",
-  "published_at": "2026-08-02T14:28:59.2096481Z"
+  "published_at": "2026-08-02T14:30:46.0796338Z"
 }

@@ -3,8 +3,8 @@
   "version_code": 1001004,
   "build_number": 7,
   "apk_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.4-mobile/ALURKA-Mobile-1.1.4.apk",
-  "sha256": "b3c17eaa0883ae5306dc5b02dc1127af59b0f27e8021e5339eb6c4cc53020299",
+  "sha256": "0c71384d42f196f291bd2d1291ddacb3eaf404a2993c39d9c7792100dd076965",
   "file_size": 56266660,
   "release_notes": "Memperbaiki Pusat Update HTTP 403 dan aktivasi ulang setelah reinstall pada perangkat mobile.",
-  "published_at": "2026-08-02T14:15:11Z"
+  "published_at": "2026-08-02T14:33:05Z"
 }

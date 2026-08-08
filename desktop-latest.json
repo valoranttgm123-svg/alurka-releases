@@ -1,11 +1,11 @@
 {
-  "version_name": "1.1.9",
-  "version_code": 1001009,
+  "version_name": "1.1.10",
+  "version_code": 1001010,
   "minimum_supported_version": "1.1.0",
-  "installer_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.9/ALURKA-Setup-1.1.9.exe",
-  "sha256": "7250f79d4c32bdfae5071be773bd2eb4253bd4b3b5fe21461e73910f0e508cdc",
-  "file_size": 186240798,
+  "installer_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.10/ALURKA-Setup-1.1.10.exe",
+  "sha256": "bb32590d1415d152ef2ebb3b7c73a4d8fcba04a791e4d8cae699b6ed3455affc",
+  "file_size": 186251430,
   "force_update": false,
-  "release_notes": "Memperbaiki error SQL Editor 42P01 duplicate_purchase_invoices dan menambahkan audit autocommit khusus Supabase SQL Editor.",
-  "published_at": "2026-08-02T19:39:35.2903688Z"
+  "release_notes": "Alurka 1.1.10 Customer Edition: login responsif, lisensi bulanan dan lifetime, database Supabase milik pelanggan, sinkronisasi aman, Printing multi-format, dashboard, serta updater dengan verifikasi SHA-256.",
+  "published_at": "2026-08-08T08:39:51Z"
 }

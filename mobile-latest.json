@@ -1,10 +1,10 @@
 {
-  "version_name": "1.1.4",
-  "version_code": 1001004,
-  "build_number": 7,
-  "apk_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.4-mobile/ALURKA-Mobile-1.1.4.apk",
-  "sha256": "2bd18ac9ef0f11577272a2535f7ab25e3130bb4b5120c1d3c28052dafb74b8bc",
-  "file_size": 56266660,
-  "release_notes": "Memperbaiki Pusat Update HTTP 403 dan aktivasi ulang setelah reinstall pada perangkat mobile.",
-  "published_at": "2026-08-02T14:50:04Z"
+  "version_name": "1.1.10",
+  "version_code": 1001010,
+  "build_number": 10,
+  "apk_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.10/ALURKA-Mobile-1.1.10.apk",
+  "sha256": "0e8459698376af29eb41182de500be1fce5e480bbfa6250063d7ca8cf5943974",
+  "file_size": 56245936,
+  "release_notes": "Alurka 1.1.10 Customer Edition: login responsif, lisensi bulanan dan lifetime, database Supabase milik pelanggan, sinkronisasi aman, Printing multi-format, dashboard, serta updater dengan verifikasi SHA-256.",
+  "published_at": "2026-08-08T08:39:51Z"
 }

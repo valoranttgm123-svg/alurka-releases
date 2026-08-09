@@ -1,11 +1,11 @@
 {
-  "version_name": "1.1.10",
-  "version_code": 1001010,
-  "minimum_supported_version": "1.1.0",
-  "installer_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.10/ALURKA-Setup-1.1.10.exe",
-  "sha256": "bb32590d1415d152ef2ebb3b7c73a4d8fcba04a791e4d8cae699b6ed3455affc",
-  "file_size": 186251430,
-  "force_update": false,
-  "release_notes": "Alurka 1.1.10 Customer Edition: login responsif, lisensi bulanan dan lifetime, database Supabase milik pelanggan, sinkronisasi aman, Printing multi-format, dashboard, serta updater dengan verifikasi SHA-256.",
-  "published_at": "2026-08-08T08:39:51Z"
+    "version_name":  "1.1.11",
+    "version_code":  1001011,
+    "minimum_supported_version":  "1.1.0",
+    "installer_url":  "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.11/ALURKA-Setup-1.1.11.exe",
+    "sha256":  "cde33eb50b935e8b7fbd4e919f679cadcc599520432708c93a72e18a34ee1ecf",
+    "file_size":  186261893,
+    "force_update":  false,
+    "release_notes":  "Rilis ini memperbaiki koneksi cloud milik pelanggan, status sinkronisasi, serta tata letak Mobile tanpa mengubah schema atau data bisnis. Alurka tetap memakai SQLite saat offline dan Supabase milik masing-masing pelanggan saat sinkronisasi; tidak ada database Hasbi Jaya yang dipakai.",
+    "published_at":  "2026-08-09T07:49:55.0000000+00:00"
 }

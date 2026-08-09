@@ -1,11 +1,11 @@
 {
-    "version_name":  "1.1.11",
-    "version_code":  1001011,
+    "version_name":  "1.1.12",
+    "version_code":  1001012,
     "minimum_supported_version":  "1.1.0",
-    "installer_url":  "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.11/ALURKA-Setup-1.1.11.exe",
-    "sha256":  "cde33eb50b935e8b7fbd4e919f679cadcc599520432708c93a72e18a34ee1ecf",
-    "file_size":  186261893,
+    "installer_url":  "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.12/ALURKA-Setup-1.1.12.exe",
+    "sha256":  "1da7aa341c5dca2675320625d33976fc756f580135447904abb89a864f3caccf",
+    "file_size":  186265627,
     "force_update":  false,
-    "release_notes":  "Rilis ini memperbaiki koneksi cloud milik pelanggan, status sinkronisasi, serta tata letak Mobile tanpa mengubah schema atau data bisnis. Alurka tetap memakai SQLite saat offline dan Supabase milik masing-masing pelanggan saat sinkronisasi; tidak ada database Hasbi Jaya yang dipakai.",
-    "published_at":  "2026-08-09T07:49:55.0000000+00:00"
+    "release_notes":  "Rilis ini menyederhanakan hubungan database Desktop dan APK tanpa mengubah",
+    "published_at":  "2026-08-09T17:15:04.8013297Z"
 }

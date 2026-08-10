@@ -1,10 +1,10 @@
 {
-    "version_name":  "1.1.12",
-    "version_code":  1001012,
-    "build_number":  12,
-    "apk_url":  "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.12/ALURKA-Mobile-1.1.12.apk",
-    "sha256":  "8b15860dbc85c4e37771aaceb422b1b70a36d4e0c76eda2532894a326a060e0a",
+    "version_name":  "1.1.13",
+    "version_code":  1001013,
+    "build_number":  13,
+    "apk_url":  "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.13/ALURKA-Mobile-1.1.13.apk",
+    "sha256":  "2ce43fe083742cc3e9bc20a9f41c5410d5ea00d42e8176272746ff7a3eaa34b3",
     "file_size":  72767771,
-    "release_notes":  "Rilis ini menyederhanakan hubungan database Desktop dan APK tanpa mengubah",
-    "published_at":  "2026-08-09T17:15:04.8013297Z"
+    "release_notes":  "Rilis ini memperbaiki keadaan pengguna yang dapat kehilangan hak edit atau",
+    "published_at":  "2026-08-10T04:09:15.6541977Z"
 }

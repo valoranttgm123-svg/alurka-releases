@@ -1,11 +1,11 @@
 {
-    "version_name":  "1.1.12",
-    "version_code":  1001012,
+    "version_name":  "1.1.13",
+    "version_code":  1001013,
     "minimum_supported_version":  "1.1.0",
-    "installer_url":  "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.12/ALURKA-Setup-1.1.12.exe",
-    "sha256":  "1da7aa341c5dca2675320625d33976fc756f580135447904abb89a864f3caccf",
-    "file_size":  186265627,
+    "installer_url":  "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.13/ALURKA-Setup-1.1.13.exe",
+    "sha256":  "218b7c7b98c1bafb9c9b2aab2ebbceaaea85431944b6d473c198f6883571d3a5",
+    "file_size":  186266636,
     "force_update":  false,
-    "release_notes":  "Rilis ini menyederhanakan hubungan database Desktop dan APK tanpa mengubah",
-    "published_at":  "2026-08-09T17:15:04.8013297Z"
+    "release_notes":  "Rilis ini memperbaiki keadaan pengguna yang dapat kehilangan hak edit atau",
+    "published_at":  "2026-08-10T04:09:15.6541977Z"
 }

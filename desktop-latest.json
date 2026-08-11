@@ -1,11 +1,11 @@
 {
-    "version_name":  "1.1.13",
-    "version_code":  1001013,
+    "version_name":  "1.1.14",
+    "version_code":  1001014,
     "minimum_supported_version":  "1.1.0",
-    "installer_url":  "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.13/ALURKA-Setup-1.1.13.exe",
-    "sha256":  "218b7c7b98c1bafb9c9b2aab2ebbceaaea85431944b6d473c198f6883571d3a5",
-    "file_size":  186266636,
+    "installer_url":  "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.14/ALURKA-Setup-1.1.14.exe",
+    "sha256":  "833b82c3833fd50ac8fd9d73d289339254a8a89930eede78e6925ff6f0aa246f",
+    "file_size":  186271326,
     "force_update":  false,
-    "release_notes":  "Rilis ini memperbaiki keadaan pengguna yang dapat kehilangan hak edit atau",
-    "published_at":  "2026-08-10T04:09:15.6541977Z"
+    "release_notes":  "Rilis ini menyederhanakan pemasangan database milik pelanggan, membuat QR",
+    "published_at":  "2026-08-11T11:06:03.6519094Z"
 }

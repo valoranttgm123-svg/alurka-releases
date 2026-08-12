@@ -1,10 +1,10 @@
 {
-    "version_name":  "1.1.15",
-    "version_code":  1001015,
-    "build_number":  15,
-    "apk_url":  "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.15/ALURKA-Mobile-1.1.15.apk",
-    "sha256":  "25139084e5126d4b45a4c70c75f081dbd8c9f9f2c4601e4980f8be66c926c49c",
-    "file_size":  72866271,
-    "release_notes":  "Rilis patch ini memperbaiki ringkasan transaksi pada APK Alurka tanpa mengubah",
-    "published_at":  "2026-08-11T14:50:33.2610240Z"
+  "version_name": "1.1.16",
+  "version_code": 1001016,
+  "build_number": 16,
+  "apk_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.16/ALURKA-Mobile-1.1.16.apk",
+  "sha256": "52569784870b610af7cbd7e811524146c1205fc3b8e37fc70c2a1a3b7ec70f41",
+  "file_size": 73342451,
+  "release_notes": "Rilis ini menyempurnakan Alurka versi jual dengan acuan fitur HASBI JAYA",
+  "published_at": "2026-08-12T10:53:52.2469595Z"
 }

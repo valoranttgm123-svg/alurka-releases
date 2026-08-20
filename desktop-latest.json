@@ -1,11 +1,11 @@
 {
-  "version_name": "1.1.16",
-  "version_code": 1001016,
+  "version_name": "1.1.18",
+  "version_code": 1001018,
   "minimum_supported_version": "1.1.0",
-  "installer_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.16/ALURKA-Setup-1.1.16.exe",
-  "sha256": "ed11f90d70138c3744741250cbba51af108127bbc7deccd16f19792ed8c53ee7",
-  "file_size": 186280776,
+  "installer_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.18/ALURKA-Setup-1.1.18.exe",
+  "sha256": "37f9f2d6be9be0f185a55a5526d19eb36cf4e71b8264e4067af9e8d7d5e1fc01",
+  "file_size": 186280687,
   "force_update": false,
-  "release_notes": "Rilis ini menyempurnakan Alurka versi jual dengan acuan fitur HASBI JAYA",
-  "published_at": "2026-08-12T10:53:52.2469595Z"
+  "release_notes": "Rilis stabilitas Desktop dan Mobile untuk ALURKA versi jual.",
+  "published_at": "2026-08-20T09:16:41.8863959Z"
 }

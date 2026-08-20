@@ -1,10 +1,10 @@
 {
-  "version_name": "1.1.16",
-  "version_code": 1001016,
-  "build_number": 16,
-  "apk_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.16/ALURKA-Mobile-1.1.16.apk",
-  "sha256": "52569784870b610af7cbd7e811524146c1205fc3b8e37fc70c2a1a3b7ec70f41",
-  "file_size": 73342451,
-  "release_notes": "Rilis ini menyempurnakan Alurka versi jual dengan acuan fitur HASBI JAYA",
-  "published_at": "2026-08-12T10:53:52.2469595Z"
+  "version_name": "1.1.17",
+  "version_code": 1001017,
+  "build_number": 17,
+  "apk_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/mobile-v1.1.17/ALURKA-Mobile-1.1.17.apk",
+  "sha256": "bde8a680c17c87c658a9a73eebc2b54fc3ebc9cb770332c1e56403c9afc144b4",
+  "file_size": 73358863,
+  "release_notes": "Tambah modul Pengeluaran untuk OWNER/ADMIN di aplikasi mobile tanpa mengubah Desktop Alurka.",
+  "published_at": "2026-08-20T04:52:14Z"
 }

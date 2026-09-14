@@ -1,11 +1,11 @@
 {
-  "version_name": "1.1.19",
-  "version_code": 1001019,
+  "version_name": "1.1.20",
+  "version_code": 1001020,
   "minimum_supported_version": "1.1.0",
-  "installer_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.19/ALURKA-Setup-1.1.19.exe",
-  "sha256": "26d3325639e41a650d4d7ad6728520b11dc8948f5cf3bac2ee181ac411975d78",
-  "file_size": 184665491,
+  "installer_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.20/ALURKA-Setup-1.1.20.exe",
+  "sha256": "93909b61b6d7c40352f61c1a300442d045c864984aa3cd09b564c6618192beb5",
+  "file_size": 184667076,
   "force_update": false,
-  "release_notes": "Alurka 1.1.19. Lihat catatan rilis lengkap pada GitHub Releases.",
-  "published_at": "2026-09-14T03:31:12.5824368Z"
+  "release_notes": "Alurka 1.1.20. Lihat catatan rilis lengkap pada GitHub Releases.",
+  "published_at": "2026-09-14T04:46:33.7822835Z"
 }

@@ -1,10 +1,10 @@
 {
-  "version_name": "1.1.18",
-  "version_code": 1001018,
-  "build_number": 18,
-  "apk_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.18/ALURKA-Mobile-1.1.18.apk",
-  "sha256": "e4796837e7b817dc45e349a4122402309d6fb27429945b6e85a3fa8ced0bb637",
-  "file_size": 73342479,
-  "release_notes": "Rilis stabilitas Desktop dan Mobile untuk ALURKA versi jual.",
-  "published_at": "2026-08-20T09:16:41.8863959Z"
+  "version_name": "1.1.19",
+  "version_code": 1001019,
+  "build_number": 19,
+  "apk_url": "https://github.com/valoranttgm123-svg/alurka-releases/releases/download/v1.1.19-mobile/ALURKA-Mobile-1.1.19.apk",
+  "sha256": "cf0a985b048a1df17de6267b873fffb4d0468c97684d1288d587880dca86c725",
+  "file_size": 73991599,
+  "release_notes": "Alurka Mobile 1.1.19. Lihat catatan rilis lengkap pada GitHub Releases.",
+  "published_at": "2026-09-14T03:36:34Z"
 }
